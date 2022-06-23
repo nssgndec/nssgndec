@@ -1,1 +1,1 @@
-nssgndec.github.io
+https://nssgndec.github.io
